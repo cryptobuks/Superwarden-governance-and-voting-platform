@@ -1,1 +1,1 @@
-# Superwarden | The Governance & Voting Tool for Tron 
+# Superwarden | Governance & Voting Tool for Tron-based DAOs 
