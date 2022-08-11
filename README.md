@@ -24,7 +24,7 @@
 
 ## What Superwarden does? | Features Overview
 
-Here's a **features overview (TL;DR)** of Superwarden:
+Here's the **features overview (TL;DR)** of Superwarden:
 
 * Build Your Community Townhall
 * Proposal | Voting System and Strategies
