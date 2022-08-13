@@ -34,6 +34,8 @@ Here's the **features overview (TL;DR)** of Superwarden:
 
 ### ✔️ Build Your Community Townhall
 
+![1](img/1.png)
+
 In Superwarden, townhall is a community space where all the DAO activities take place (such as proposal voting, announcement broadcast, etc.), and also where all the community members gathered and took part in the governance processes. Users can navigate and explore between different DAO's townhalls on the "World" page and add them to their own townhall sidebar when joined. Here, community members will be joining a DAO's community townhall as "**villagers**" role. By becoming a "villager" of a DAO's townhall, community members can view and vote on proposals, as well as keep track of announcement broadcasts. 
 
 Everyone can create their own DAO's townhall with our powerful and comprehensive townhall creation process. Unlike some governance and voting tools in other blockchains which required users to buy an NFT domain from the native name service before opening up a space for their community, Superwarden makes townhall creation totally costless and easy. Every townhall created in Superwarden can have its own unique .tron slug which acts as a custom branding for DAO (without the need of name service, as well as complicated setup and integration). After providing all the details needed in the multi-step townhall creation process (which takes a couple of minutes), your townhall is all set and ready to go!
@@ -44,7 +46,7 @@ Worth mentioning that Superwarden is using a **role-based management system** fo
 
 ### ✔️ Proposals | Voting System & Strategies
 
-
+![2](img/2.png)
 
 Creating proposal voting in Superwarden is easy and fast with its multi-step process:
 
@@ -80,7 +82,7 @@ Here is a quick overview of all the voting systems and voting strategies in Supe
 
 ####  <u>Superwarden supports Quorum</u>
 
-
+![3](img/5.png)
 
 Furthermore, **Superwarden does let proposal creator set up their proposal quorum** by indicating the quorum percentage and token circulating supply. A quorum is a minimum number of participating members(or in most cases, tokens) required for a governing body to approve a proposal. 
 
@@ -90,7 +92,7 @@ Having a quorum is important in DAO's proposal voting to prevent some major risk
 
 ####  <u>Superwarden's Shielded Voting</u>
 
-
+![4](img/6.png)
 
 Besides that, Superwarden has introduced a new concept in DAO's proposal voting, which is called the **Shielded Voting**. In short, votes (voters list) and voting results are shielded throughout the voting period, and only will be revealed when the voting period is over. **There are some benefits when DAO enable Superwarden's shielded voting for their proposal voting**:
 
@@ -106,7 +108,7 @@ Besides that, Superwarden has introduced a new concept in DAO's proposal voting,
 
 ### ✔️ Proposals | Community Voting
 
-
+![5](img/3.png)
 
 Proposals created on Superwarden will be all listed in the townhall, with statuses of: `active`, `important`, and `complete`. All of the proposal's countdown and results will also be announced and displayed here. Community members can easily keep track of active (or important) proposals to vote on. For detailed proposal voting info and a summary (content) of the proposal, community members just have to tap into the proposal's individual page to check it all. Furthermore, a community member can also place their vote on the proposal's individual page too, by just clicking on "vote now", choose the voting options to vote, and submit his/her vote. **Voting is that simple on Superwarden!** The votes will be recorded into the voters' list, this includes the wallet address of the voter, the voting option of the voter, and the votes (tokens or tickets) count contributed to the voting option.
 
@@ -116,7 +118,7 @@ Worth mentioning that, when the proposal is created, an identical copy will be s
 
 ### ✔️ Announcement Broadcasting
 
-
+![6](img/4.png)
 
 Townhall can broadcast announcements related to DAO events, notices or messages, upcoming proposals, etc.  All of the announcements will be listed in the townhall for all the community members to keep track of. During the announcement creation, a valid date can be set to the announcement to let the user know when is the announcement valid till. This can efficiently prevent community members from following outdated announcements and cause misunderstanding. An announcement can also be marked as `important` to let community members pay more attention to it. Worth mentioning that all of the broadcasted announcements will have a copy uploaded and stored on IPFS (stored on Web3.Storage, plus additional pinning on Pinata). Every announcement's individual page will have a CID of itself which can be referred to on IPFS.
 
@@ -124,7 +126,7 @@ Townhall can broadcast announcements related to DAO events, notices or messages,
 
 ### ✔️ Superwarden's Profile System
 
-
+![7](img/7.png)
 
 Superwarden's profile system further increases the transparency in all of the DAO activities. Every user has a profile that: records all of the roles assigned to the user by any townhalls, showing the townhall created by the user, and a profile card showing the address, name, and bio of the user. In the next release, the user's Superwarden profile will also display a voting timeline that tracks all the proposal voting records of the user, as well as the participation rate in DAO activities of each townhall.
 
